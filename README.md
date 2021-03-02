@@ -38,7 +38,7 @@ Workshop for IRT HiWi test.
   
 	*Right click on* `image_creator.py` --> *Properties* --> *Permissions* --> *Allow executing file as program*
   
-4. Change output model.  
+4. Change output type.  
   
 	*If you want to output just the first image, please open* `image_creator.py`, *then set the parameter* `more_images_output`  *to* `False`.  
   
