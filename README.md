@@ -2,19 +2,19 @@
 Workshop for IRT HiWi test.
 
 ## Installation
-1. Clone this repository  
+1. Open a terminal and clone this repository.  
   
 	`cd ~`  
   
 	`git clone https://github.com/YunongPan/irt_ws.git`  
   
-2. Install dependencies  
+2. Install dependencies.  
   
 	`cd ~/irt_ws`  
   
 	`rosdep install --from-paths src --ignore-src -r -y`  
   
-3. Build the workspace  
+3. Build the workspace.  
   
 	`catkin_make`  
   
@@ -36,7 +36,7 @@ Workshop for IRT HiWi test.
   
   	*Before start the py.file please don't forget to set* `image_creator.py` *as an executable file.*  
   
-
+	*Right click on* `image_creator.py` --> *Properties* --> *Permissions* --> *Allow executing file as program*
   
 4. Change output model.  
   
