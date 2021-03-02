@@ -38,8 +38,8 @@ Workshop for IRT HiWi test.
   
 4. Change output model.  
   
-	*If you want to output just the first image, please open `image_creator.py`, then set the parameter `more_images_output`  to False.*  
+	*If you want to output just the first image, please open* `image_creator.py`, *then set the parameter* `more_images_output`  *to False.*  
   
-	*If you want to adjust the time interval between two output images, you may set `time - time_last >= 0.5` to another value (e.g. `time - time_last >= 0.2`).* 
+	*If you want to adjust the time interval between two output images, you may set* `time - time_last >= 0.5` *to another value (e.g.* `time - time_last >= 0.2`*).* 
 	  
   
