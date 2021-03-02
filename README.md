@@ -36,6 +36,8 @@ Workshop for IRT HiWi test.
   
   	*Before start the py.file please don't forget to set* `image_creator.py` *as an executable file.*  
   
+  	![image](https://raw.githubusercontent.com/YunongPan/readme_add_pic/main/IRT_first_image.png)
+  
 4. Change output model.  
   
 	*If you want to output just the first image, please open* `image_creator.py`, *then set the parameter* `more_images_output`  *to* `False`.  
