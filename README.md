@@ -36,12 +36,23 @@ Workshop for IRT HiWi test.
   
   	*Before start the py.file please don't forget to set* `image_creator.py` *as an executable file.*  
   
-  	![image](https://raw.githubusercontent.com/YunongPan/readme_add_pic/main/IRT_first_image.png)
+
   
 4. Change output model.  
   
 	*If you want to output just the first image, please open* `image_creator.py`, *then set the parameter* `more_images_output`  *to* `False`.  
   
 	*If you want to adjust the time interval between two output images, you may set* `time - time_last >= 0.5` *to another value (e.g.* `time - time_last >= 0.2`*).* 
-	  
   
+## Result
+1. Output first image.
+  
+  	![image](https://raw.githubusercontent.com/YunongPan/readme_add_pic/main/IRT_first_image.png)  
+  
+2. Output more images.
+  
+  	![image](https://raw.githubusercontent.com/YunongPan/readme_add_pic/main/IRT_first_image.png)
+	![image](https://raw.githubusercontent.com/YunongPan/readme_add_pic/main/IRT_2_image.png)
+  	![image](https://raw.githubusercontent.com/YunongPan/readme_add_pic/main/IRT_3_image.png)
+	![image](https://raw.githubusercontent.com/YunongPan/readme_add_pic/main/IRT_4_image.png)
+	![image](https://raw.githubusercontent.com/YunongPan/readme_add_pic/main/IRT_5_image.png)
