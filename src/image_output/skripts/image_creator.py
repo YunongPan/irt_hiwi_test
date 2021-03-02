@@ -41,12 +41,14 @@ else:
   imshow("bag image", img) 	# Output the first image.
   waitKey()
   
+  # To find next image.
   while True:
     single_image_data = bag_messages.next()
     msg = single_image_data.message
     time = msg.header.stamp.to_sec()
+
     # Once the time between an image and the last image is more than 0.5 seconds, this image will be outputted. Otherwise it will enter the next loop to find the right image.
-    if time - time_last > 0.5: 		# To adjust the time interval between two images, you may set this parameter to another value (e.g. 0.2).
+    if time - time_last >= 0.5: 		# To adjust the time interval between two images, you may set this parameter to another value (e.g. time - time_last >= 0.2).
       time_last = time
       width = msg.width
       height = msg.height
