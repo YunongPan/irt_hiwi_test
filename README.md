@@ -47,7 +47,8 @@ Workshop for IRT HiWi test.
 ## Result
 1. Output first image.
   
-  	![image](https://raw.githubusercontent.com/YunongPan/readme_add_pic/main/IRT_first_image.png)  
+  	![image](https://raw.githubusercontent.com/YunongPan/readme_add_pic/main/IRT_first_image.png)
+	![image](https://raw.githubusercontent.com/YunongPan/readme_add_pic/main/IRT_topic_image.png)
   
 2. Output more images.
   
