@@ -34,7 +34,7 @@ Workshop for IRT HiWi test.
   
   	`rosrun image_output image_creator.py`  
   
-  	*Before start the py.file please don't forget to set `image_creator.py` as an executable file.*  
+  	*Before start the py.file please don't forget to set* `image_creator.py` *as an executable file.*  
   
 4. Change output model.  
   
