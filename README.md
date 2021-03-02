@@ -34,7 +34,7 @@ Workshop for IRT HiWi test.
   
   	`rosrun image_output image_creator.py`  
   
-  	*Before start the py.file please don't forget to set* `image_creator.py` *as an executable file.*  
+  	*Before start the py.file please don't forget to set* `image_creator.py` *as an executable file:*  
   
 	*Right click on* `image_creator.py` --> *Properties* --> *Permissions* --> *Allow executing file as program*
   
