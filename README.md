@@ -28,7 +28,7 @@ Workshop for IRT HiWi test.
   
 	`source ~/irt_ws/devel/setup.bash`  
   
-3. Start rosnode.
+3. Start `image_creator.py`.
   
 	`cd ~/irt_ws/src/image_output/bagfile`  
   
