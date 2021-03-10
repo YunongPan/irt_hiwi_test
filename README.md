@@ -1,5 +1,5 @@
 # irt_hiwi_ws
-Workshop for IRT HiWi test tim redick.
+Workshop for IRT HiWi test.
 
 ## Installation
 1. Open a terminal and clone this repository.  
